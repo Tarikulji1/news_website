@@ -1,7 +1,3 @@
-console.log("This is my index JS file")
-// news_API 
-// 04955bd9d085421f802bac919373197d
-
 // Initialize the news api parameters
 let source = 'bbc-news';
 let apiKey = '04955bd9d085421f802bac919373197d'
